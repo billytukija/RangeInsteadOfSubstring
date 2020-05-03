@@ -1,0 +1,11 @@
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\RangeInsteadOfSubstring\RangeInsteadOfSubstring\bin\Debug\netcoreapp3.0\RangeInsteadOfSubstring.exe
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\RangeInsteadOfSubstring\RangeInsteadOfSubstring\bin\Debug\netcoreapp3.0\RangeInsteadOfSubstring.deps.json
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\RangeInsteadOfSubstring\RangeInsteadOfSubstring\bin\Debug\netcoreapp3.0\RangeInsteadOfSubstring.runtimeconfig.json
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\RangeInsteadOfSubstring\RangeInsteadOfSubstring\bin\Debug\netcoreapp3.0\RangeInsteadOfSubstring.runtimeconfig.dev.json
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\RangeInsteadOfSubstring\RangeInsteadOfSubstring\bin\Debug\netcoreapp3.0\RangeInsteadOfSubstring.dll
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\RangeInsteadOfSubstring\RangeInsteadOfSubstring\bin\Debug\netcoreapp3.0\RangeInsteadOfSubstring.pdb
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\RangeInsteadOfSubstring\RangeInsteadOfSubstring\obj\Debug\netcoreapp3.0\RangeInsteadOfSubstring.csprojAssemblyReference.cache
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\RangeInsteadOfSubstring\RangeInsteadOfSubstring\obj\Debug\netcoreapp3.0\RangeInsteadOfSubstring.AssemblyInfoInputs.cache
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\RangeInsteadOfSubstring\RangeInsteadOfSubstring\obj\Debug\netcoreapp3.0\RangeInsteadOfSubstring.AssemblyInfo.cs
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\RangeInsteadOfSubstring\RangeInsteadOfSubstring\obj\Debug\netcoreapp3.0\RangeInsteadOfSubstring.dll
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\RangeInsteadOfSubstring\RangeInsteadOfSubstring\obj\Debug\netcoreapp3.0\RangeInsteadOfSubstring.pdb
